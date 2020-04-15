@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "cloudflare-app"
 type = "javascript"
-account_id = ""
+account_id = "05126dad0798fcfe86a792654fdede4b"
 workers_dev = true
 route = ""
 zone_id = ""
